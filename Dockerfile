@@ -1,3 +1,3 @@
 From scratch
-ADD hello /hello
+ADD  hello /hello
 CMD ["/hello"]
